@@ -1,5 +1,5 @@
 # py-ledger
-A general ledger system written for Python 3.x.x
+A general ledger system written for Python 3.4.2
 
 #About
 This program should hopefully be a simple CLI based general ledger system written for Python 3. For now entry totals will be stored in text files but hopefully support for SQL will be added in the future.
